@@ -1,1 +1,2 @@
 # Predicting Movie Rental Durations in Python
+A DVD rental company wants to figure out how many days a customer will rent a DVD for based on some features. They want to try out some regression models which will help predict the number of days a customer will rent a DVD for. The company wants a model which yields a MSE of `3.0` or less on a test set. The model will help the company become more efficient in inventory planning.
